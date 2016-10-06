@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HW_07</string>
+    <string name="go_to_first_activity">Go to first Activity</string>
+    <string name="go">Go</string>
+    <string name="go_to_second_activity">Go to second Activity</string>
+    <string name="go_to_third_activity">Go to third Activity</string>
+    <string name="go_to_fourth_activity">Go to fourth Activity</string>
+    <string name="go_to_fifth_activity">Go to fifth Activity</string>
+    <string name="go_to_main_activity">Go to Main Activity</string>
+    <string name="finish">Finish</string>
+    <string name="go_to_second">You are in the first activity,go to the second</string>
+</resources>
